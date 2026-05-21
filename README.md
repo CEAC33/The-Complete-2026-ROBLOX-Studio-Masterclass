@@ -78,12 +78,56 @@ Shift - Helps to move with disabled snapping
 
 ### Appearance Properties
 
+- Properties, recommended at top right
+- BrickColor, color our parts
+- CastShadow, enable or disable shadow
+- Color, advanced option of BrickColor
+- Material, textures for our parts
+- Reflectance, how much the part reflects of itself
+- Transparency, how transparent is the part
+  
+<img width="1275" height="770" alt="image" src="https://github.com/user-attachments/assets/9a17632b-eb83-4cca-a72a-d56e6634b011" />
 
+### Data Properties
 
+- Archivable, determines whether a part can be saved or be included in any saved files you create
+- ClassName, type of object
+- Locked, if can select an object
+- Name, name of your object the default is the ClassName
+- Parent, first up level
 
+### Transform Properties
 
+- Size
+- CFrame
+  - Position
+  - Orientation 
+- Origin
+  - Position
+  - Orientation 
 
+### Collision and Part Properties
 
+Collision:
+- EnableFluidForces - aerodinamyc forces
+- CanCollide - if disabled you can pass through
+- CanQuery
+- CanTouch - certain triggers can be added when touched like door
+- CollisionGroup
 
+Part:
+- Anchored - things can float in the air
+- Shape - Block, Ball, CornerWedge, Cylinder, Wedge
 
+Other Part Options under Worksparce menu:
+<img width="287" height="258" alt="image" src="https://github.com/user-attachments/assets/197b9dcc-5589-4bc0-ab18-799454464ec7" />
+
+- Truss Part - allow player to climb
+
+- Tags - useful for scriptings, extra names or groups
+- Attributes - name and value
+
+Run:
+- Run - run it without a player
+- Test - run it with a player
 
