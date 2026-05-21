@@ -120,6 +120,7 @@ Part:
 - Shape - Block, Ball, CornerWedge, Cylinder, Wedge
 
 Other Part Options under Worksparce menu:
+
 <img width="287" height="258" alt="image" src="https://github.com/user-attachments/assets/197b9dcc-5589-4bc0-ab18-799454464ec7" />
 
 - Truss Part - allow player to climb
